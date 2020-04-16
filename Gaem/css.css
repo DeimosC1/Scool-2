@@ -1,0 +1,28 @@
+.Wall{
+    height: 50px;
+    width: 50px;
+    background-image: url("Brick Wall 2.png");
+    background-size: 60px;
+
+}
+
+.Path{
+    height: 50px;
+    width: 50px;
+    background-image: url("Dirt.png");
+    background-size: 60px;
+}
+
+.Player{
+    height: 50px;
+    width: 50px;
+    background-image: url("unnamed.png");
+    background-size: 60px;
+}
+
+.End{
+    height: 50px;
+    width: 50px;
+    background-image: url("924249fc835a4cf1305c5dfc2bb5ba40.png");
+    background-size: 60px;
+}
